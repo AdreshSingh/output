@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c8jc3af0bchpl"
-path="res://.godot/imported/happy_diwali.wasm.png-d17005749a663a2b09adf263d5fd2dd8.ctex"
+uid="uid://djpaw3drunvd2"
+path="res://.godot/imported/happy_diwali.wasm.icon.jpg-cd339d60b87b25cae29563bafd4e1b0b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://builds/web/output/happy_diwali.wasm.png"
-dest_files=["res://.godot/imported/happy_diwali.wasm.png-d17005749a663a2b09adf263d5fd2dd8.ctex"]
+source_file="res://builds/web/output/happy_diwali.wasm.icon.jpg"
+dest_files=["res://.godot/imported/happy_diwali.wasm.icon.jpg-cd339d60b87b25cae29563bafd4e1b0b.ctex"]
 
 [params]
 
